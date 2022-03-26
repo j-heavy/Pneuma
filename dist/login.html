@@ -3470,11 +3470,9 @@
           </div>
 
           <form
-            method="post"
             data-request-validate=""
             data-request="onSignin"
             id="t2_loginform"
-            action="profile.html"
           >
             <div class="custom_form">
               <label class="custom_form-label" for="login">email</label
@@ -3587,7 +3585,7 @@
               data-request-validate=""
               data-request="onRegister"
               id="t_regf"
-              action="profile.html"
+              action="security_register.html"
               style="opacity: 1"
             >
               <div class="custom_form">
@@ -4181,7 +4179,7 @@
         //setTimeout(function() {
         //	$('.t_reg_overlay').html('<div style="display:flex;justify-content:center;align-items:center;flex-direction:column"><p class="reg_alert"><span class="t_lang" data-lang="registerAlert">' + getLocaleValue('registerAlert') + '</span></p>' + '<a href="#!" style="margin-top: 20px;" id="t_respwdbtn" class="custom_btn custom_btn-outlined"><span class="t_lang" data-lang="backToSignIn">Sign In</span></a></div>');
         //}, 1500);
-        $('#t_regf').submit();
+        !err && (document.location.href = 'profile.html')
         return false;
     }
 
