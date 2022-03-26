@@ -31,7 +31,7 @@ var languages = {
 
     researching: "Researching esports &amp; streaming trends",
     researchingInfo:
-      "Pneumaleagueis a unique analytical agency collecting all information about esports, streaming and providing actual fact data",
+      "Pneumaleague is a unique analytical agency collecting all information about esports, streaming and providing actual fact data",
 
     viewersOnline: "viewers online",
     channelsOnline: "channels online",
