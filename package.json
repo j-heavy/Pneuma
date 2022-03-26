@@ -1,0 +1,17 @@
+{
+  "name": "pneuma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write src/**/*"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.6.1",
+    "rollup": "^2.70.1",
+    "rollup-plugin-prettier": "^2.2.2"
+  }
+}
