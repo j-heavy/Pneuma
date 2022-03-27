@@ -598,3 +598,8 @@ background: rgb(1 17 33) !important;
 #layout-light .recently-added .cls_66 .cls_48 .fade-title {
   display: none !important;
 }
+
+#layout-light .page_nav {
+  background-color: #000e1c !important;
+  opacity: .95 !important;
+}
