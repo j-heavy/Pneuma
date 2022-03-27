@@ -595,6 +595,6 @@ background: linear-gradient(90deg, rgba(0,6,11,1) 17%, rgba(3,25,51,1) 39%, rgba
 background: rgb(1 17 33) !important; 
 }
 
-.fade-title {
-  display: hidden !important;
+#layout-light .recently-added .cls_66 .cls_48 .fade-title {
+  display: none !important;
 }
