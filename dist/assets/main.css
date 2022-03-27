@@ -585,3 +585,8 @@ background: linear-gradient(90deg, rgba(1,12,27,1) 0%, rgba(5,39,83,1) 25%, rgba
   background: rgb(1,12,27);
 background: linear-gradient(90deg, rgba(1,12,27,1) 0%, rgba(5,39,83,1) 25%, rgba(5,46,71,1) 50%, rgba(13,77,126,1) 75%, rgba(0,146,193,1) 100%);
 }
+
+#layout-light > div.footer {
+  background: rgb(0,6,11);
+background: linear-gradient(90deg, rgba(0,6,11,1) 17%, rgba(3,25,51,1) 39%, rgba(2,35,70,1) 67%, rgba(9,51,89,1) 89%);
+}
