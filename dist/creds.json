@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storied-coil-298203",
+  "private_key_id": "e3f50e34888a03e277e963f690e8acb2afe53abf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvz5JdU3At5kRU\nU9BSy5wQswsQE/QgZFxJ10ekRd+pEDlic+hguW/OuygbXmIwJU21v8MFgkiMl838\nMy8q6jZkMzCfSEFYtxTY/swvaAGlAXNiOH0kwxIo23d60TZP/0kV0AxzBmyII4Ww\n88WIRvzcA1C0JJBuDzMnDihTmUAiYF+BDvIfp3VvtkP+FIKx7TjXCZejan+JG5uV\nOn1hgRri8yT4/Z04uLQlARkuEopMLBNRM6Z91VphCLadRmKOgPjT+/VR6I+84Mnx\n4povzM1qGYxOJLIr+ypFwgJq1uarPcHP5fJq8zdYWlKiZobQ0QmhupsAOXpurBQg\nq95a5YN5AgMBAAECggEAAqAZkhs03vqZT/O7IKwPCzt2kX7lc7ZhSm5UkOIaPO6+\nbKHzzmihKs0mBC1HT2tp2v+fbJhNd7asn3TZjM0tPWx7mrqm1H78vgt6sRqJ1mpM\nds2xJg4OWgiCTZXiNxTw2nUzj7mA1WedD3oUcRHeT3VyjGjKCgVgFi038kek6t55\n02OaRj6LPQr2ho5pUdjpya49nQocEmr9XX+NoiHy1K3rBKWHquLyyQjn2w4LkP3S\netaz74arWC0NBks0h3hw7qsBUazxdsbLJJ2d4u/dndYEulrr5N0xAIIc28T8kDFe\naf2tOdWEAwzevtbQvanhlPz4rhsXMRFAS8NI3lnroQKBgQDz8izEmMdV1oZUk0KT\nFP/PfEfGRJ+Tx6Qm/RveqSW/SPtMDOtV/JE1tD6duQP3CjtFDYlPswLoZ3+GpNAi\nNmUOZTuJku8m+xHgh+LfV0fOr3Yiacp4NSNd9L8wPQHAiAjdWfwffBceeakBVKgr\nKCtLkevHi5azuYUVIajyi8KGmwKBgQC4f4M5mX7GxOfaF+ph8XGxOJHfKSdnbrQy\n5afqT9WGgsDR+S5yX74TXw2VoCgML3DxqpfTa0YvT+2rQleEs5UvBnwQibe3TfKu\noDV76/D4WtItG4zoaEJiMYERgyX6O3bTicUPDNWvZGQeHCh+wnfm0LWgbV8fmoeZ\nPNqloF51ewKBgBm/NLRnP5qysqjYhg1KCRnYDydA9Oq/BndK/ZcJmT9QL52+O1Ru\n/NCDPpyc+2smfEz0ecqcpTDsQ4xtdr41qYLUcm05wd4GX8On8+0IpD6PTFOjgMgh\nK6NuAoPP3JB6ixz5s1+LVFFWG91VFw6/BZrLQuxjsjsz2HT7gX5f+98DAoGAGWa8\n6249rSIpBbbrNyblz0+Jjd79pNjyCFvkHXd2X3mbEI2tHmQeKE6a8THGsb7KXwts\nsdgAJr1rbHvKzuNms73B0QkU+TDLK82072XRnG/spfc4FDtegGRub7nNvcD4IDHE\npsjOlsJMonSgAqvFlErB5t+IDDLbXnapZ8pHlwcCgYBZOrM+1noNt82eXlMYzNFG\namDER45+XVqFXx4KSVdhfWMp41Y5mRRs8LmndT+nvs7pddk62VmoTGxxkw1A+3rW\nf+RzRpRlGKVAZG87LsPI99qqfMHf9P17FjyO/J0BP29g4vyATCMSMztM2qQK6i+5\nEqQySevdwYt/BgJq/aWaew==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pneumaproleague@storied-coil-298203.iam.gserviceaccount.com",
+  "client_id": "109274607905876953817",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pneumaproleague%40storied-coil-298203.iam.gserviceaccount.com"
+}

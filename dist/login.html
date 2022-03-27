@@ -94,6 +94,15 @@
       content="https://i.imgur.com/e50yrQG.png"
     />
     <meta name="theme-color" content="#ffffff" />
+    <script src="https://cdn.jsdelivr.net/npm/google-spreadsheet"></script>
+
+    <script type="module">
+      import * as creds from 'creds.json'
+      const doc = new GoogleSpreadsheet('1quDHm7kk5tY4M1tafqI0dqp_vAtMrl96JKschp4rQtg');
+
+      await promisify(doc.useServiceAccount)(creds)
+    </script>
+
     <script>
       var siteName = "Pneuma";
       var siteShortName = "Pneuma";
