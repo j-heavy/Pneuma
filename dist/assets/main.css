@@ -592,9 +592,9 @@ background: linear-gradient(90deg, rgba(0,6,11,1) 17%, rgba(3,25,51,1) 39%, rgba
 }
 
 #layout-light .recently-added .cls_66 .cls_48 .info {
-background: rgb(1 17 33);
+background: rgb(1 17 33) !important; 
 }
 
 .fade-title {
-  display: hidden;
+  display: hidden !important;
 }
