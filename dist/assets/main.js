@@ -275,4 +275,4 @@ function hideWnd() {
   $("#sign-in-popup")["attr"]("aria-hidden", "true");
 }
 
-window.title = 'Pneuma pro league'
+document.title = 'Pneuma pro league'
