@@ -591,7 +591,7 @@ background: linear-gradient(90deg, rgba(1,12,27,1) 0%, rgba(5,39,83,1) 25%, rgba
 background: linear-gradient(90deg, rgba(0,6,11,1) 17%, rgba(3,25,51,1) 39%, rgba(2,35,70,1) 67%, rgba(9,51,89,1) 89%);
 }
 
-.info {
+#layout-light .recently-added .cls_66 .cls_48 .info {
 background: rgb(1 17 33);
 }
 
