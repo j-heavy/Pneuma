@@ -575,3 +575,8 @@
 .page-terms {
   text-align: center;
 }
+
+#layout-light {
+  background: rgb(1,12,27);
+background: linear-gradient(90deg, rgba(1,12,27,1) 0%, rgba(5,39,83,1) 25%, rgba(5,46,71,1) 50%, rgba(13,77,126,1) 75%, rgba(0,146,193,1) 100%);
+}
