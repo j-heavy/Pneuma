@@ -603,3 +603,7 @@ background: rgb(1 17 33) !important;
   background-color: #000e1c !important;
   opacity: .95 !important;
 }
+
+#layout-light.page-home .section.section--games {
+      background: linear-gradient(90deg, rgba(0,6,11,1) 17%, rgba(3,25,51,1) 39%, rgba(2,35,70,1) 67%, rgba(9,51,89,1) 89%);
+}
