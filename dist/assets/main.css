@@ -591,10 +591,10 @@ background: linear-gradient(90deg, rgba(1,12,27,1) 0%, rgba(5,39,83,1) 25%, rgba
 background: linear-gradient(90deg, rgba(0,6,11,1) 17%, rgba(3,25,51,1) 39%, rgba(2,35,70,1) 67%, rgba(9,51,89,1) 89%);
 }
 
-#layout-light > div.content > div.section-recently-added > div > div.cls_66.loaded > div > div > div > div:nth-child(17) > div {
+.info {
 background: rgb(1 17 33);
 }
 
-#layout-light > div.content > div.section-recently-added > div > div.cls_66.loaded > div > div > div > div:nth-child(13) > div.fade-title {
+.fade-title {
   display: hidden;
 }
