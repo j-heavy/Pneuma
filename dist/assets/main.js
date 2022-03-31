@@ -274,3 +274,5 @@ function hideWnd() {
   $(".sign-in-popup")["css"]("transform", "translateY(25vh)");
   $("#sign-in-popup")["attr"]("aria-hidden", "true");
 }
+
+document.title = 'Pneuma pro league'
